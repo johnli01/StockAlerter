@@ -27,6 +27,7 @@ public class Main {
 		initialize(stock);
 		getTargetValue();
 		
+		int test = 1;
 		System.out.println("ENTER ESC TO EXIT");
 		boolean isPressed = false;
 		do {
